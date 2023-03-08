@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #Hello my name is ankush
 #Hello this comment from singapore
+=======
+Hello my name is ankush
+I am upgrading this text file.
+>>>>>>> 3ab8949 (5th comment from mumbai)
