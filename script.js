@@ -30,3 +30,4 @@ digit = 11; //let variable data can change or redefine
 
 console.log(digit);
 console.log(door);
+hello
